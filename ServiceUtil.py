@@ -1,4 +1,5 @@
-#!/usr/bin/python3.4
+#!/usr/bin/env python
+
 import os;
 import json;
 import sys;
